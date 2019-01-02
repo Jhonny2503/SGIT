@@ -2,7 +2,7 @@
 
 ## Módulo de Configuración 
 
-![](../.gitbook/assets/image%20%28194%29.png)
+![](../.gitbook/assets/image%20%28195%29.png)
 
 1. [Process Planning](planificacion-de-procesos.md)
 2. [Processes and Activities Configuration](configurador-de-procesos-y-actividades.md)

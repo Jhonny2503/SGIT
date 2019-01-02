@@ -1,6 +1,6 @@
 # Herramientas de acuerdo al enfoque Metodológico Mapa
 
-![](../.gitbook/assets/image%20%28106%29.png)
+![](../.gitbook/assets/image%20%28107%29.png)
 
 1. [Proyectos](../proyectos.md)
 2. [Módulo de Encuestas.](modulo-de-encuestas.md)

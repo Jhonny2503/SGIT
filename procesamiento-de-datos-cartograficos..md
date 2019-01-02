@@ -8,13 +8,13 @@ description: >-
 
 ## Recopilación, análisis y preparación de la información alfanumérica y documental relacionada con el proyecto, previa a su migración al sistema.
 
-![](.gitbook/assets/image%20%2844%29.png)
+![](.gitbook/assets/image%20%2845%29.png)
 
 La información cartográfica recopilada de los municipios, agencias y el registro debe ser geo referenciada, procesada y validada previo la carga en el Sistema.
 
 El procesamientos se puede realizar en un software libre \(QGIS o GVSIG\) o en  un aplicativo ARCGIS.
 
-![](.gitbook/assets/image%20%2880%29.png)
+![](.gitbook/assets/image%20%2881%29.png)
 
 El usuario debe  considerar utilizar los formatos definidos en el Diccionario de datos de las capas gráficas.
 
@@ -26,17 +26,17 @@ El usuario debe  considerar utilizar los formatos definidos en el Diccionario de
 
 Así mismo el Sistema facilita que el usuario pueda descargar las plantillas shape del Sistema.
 
-![](.gitbook/assets/image%20%2874%29.png)
+![](.gitbook/assets/image%20%2875%29.png)
 
 ![](.gitbook/assets/image%20%2831%29.png)
 
-![](.gitbook/assets/image%20%28204%29.png)
+![](.gitbook/assets/image%20%28205%29.png)
 
 ### Digitalización de la Información
 
 De acuerdo a la Cartilla de edición y procedemos ingresar los datos al Shape.
 
-![](.gitbook/assets/image%20%28236%29.png)
+![](.gitbook/assets/image%20%28237%29.png)
 
 
 

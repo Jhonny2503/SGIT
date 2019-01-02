@@ -12,15 +12,15 @@ Este módulo permitirá al especialista gis incorporar la información cartográ
 
 Las siguientes imágenes explican cómo interactuar  con la gestión cartográfica de proyecto, paso a paso
 
-![](../.gitbook/assets/image%20%28121%29.png)
+![](../.gitbook/assets/image%20%28122%29.png)
 
-![](../.gitbook/assets/image%20%28153%29.png)
+![](../.gitbook/assets/image%20%28154%29.png)
 
-![](../.gitbook/assets/image%20%28138%29.png)
+![](../.gitbook/assets/image%20%28139%29.png)
 
 ![](../.gitbook/assets/image%20%287%29.png)
 
-![](../.gitbook/assets/image%20%2868%29.png)
+![](../.gitbook/assets/image%20%2869%29.png)
 
 
 

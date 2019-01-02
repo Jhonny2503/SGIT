@@ -6,9 +6,9 @@ El módulo de Parámetros se podrá visualizar, editar, añadir o eliminar  los 
 
 Se podrá escoger la tabla en la cual se agregara o quitara campos:
 
-![](../.gitbook/assets/image%20%2839%29.png)
+![](../.gitbook/assets/image%20%2840%29.png)
 
 Se podrá elegir el idioma a configurar con se ve en la siguiente imagen:
 
-![](../.gitbook/assets/image%20%2847%29.png)
+![](../.gitbook/assets/image%20%2848%29.png)
 

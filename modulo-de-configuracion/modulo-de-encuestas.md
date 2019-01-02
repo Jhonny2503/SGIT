@@ -2,15 +2,15 @@
 
 ### **2.- Módulo de Encuestas.**
 
-![](../.gitbook/assets/image%20%28105%29.png)
+![](../.gitbook/assets/image%20%28106%29.png)
 
 Este módulo permite el ingreso de los datos socio económicos recopilados en campo  y que incluye de herramienta para incorporar las fotografías  u algún otro documento.
 
 El módulo provee de opciones para:
 
-![](../.gitbook/assets/image%20%28142%29.png)
+![](../.gitbook/assets/image%20%28143%29.png)
 
-![Bot&#xF3;n New Register en el M&#xF3;dulo de Encuesta](../.gitbook/assets/image%20%28184%29.png)
+![Bot&#xF3;n New Register en el M&#xF3;dulo de Encuesta](../.gitbook/assets/image%20%28185%29.png)
 
 Para poder ingresar una nueva encuesta se seleccionará el botón " **New Register** " tras ello se ingresaran los datos requeridos en la encuesta para luego guardar con el botón " **Save** "
 
@@ -18,9 +18,9 @@ Para poder ingresar una nueva encuesta se seleccionará el botón " **New Regist
 Las preguntas en las encuestas pueden variar según el País
 {% endhint %}
 
-![Esquema del Nuevo Registro en Encuesta.](../.gitbook/assets/image%20%28242%29.png)
+![Esquema del Nuevo Registro en Encuesta.](../.gitbook/assets/image%20%28243%29.png)
 
-![Bot&#xF3;n de Edici&#xF3;n en el M&#xF3;dulo de Encuesta](../.gitbook/assets/image%20%2882%29.png)
+![Bot&#xF3;n de Edici&#xF3;n en el M&#xF3;dulo de Encuesta](../.gitbook/assets/image%20%2883%29.png)
 
 Para Editar Un registro ya creado en Encuesta se tendrá que seleccionar el icono  de " **Editar Registro** " como indica la imagen superior, tras ello se abrirá una ventana en la cual se especificara el tipo de modificación que se realizara.
 

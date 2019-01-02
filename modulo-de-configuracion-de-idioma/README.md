@@ -1,5 +1,5 @@
 ---
-Description:
+description: >-
   El administrador puede configurar el estándar de entidades y el idioma en los
   siguientes módulos:
 ---

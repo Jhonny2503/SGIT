@@ -4,7 +4,7 @@ Las  Organizaciones serán creadas por Hábitat Central y estas contaran con los
 
 ![](.gitbook/assets/image%20%2824%29.png)
 
-![](.gitbook/assets/image%20%28145%29.png)
+![](.gitbook/assets/image%20%28146%29.png)
 
 
 

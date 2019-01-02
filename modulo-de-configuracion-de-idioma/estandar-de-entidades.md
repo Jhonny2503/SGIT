@@ -10,5 +10,5 @@ Guardamos las configuraciones realizadas.
 
 
 
-![](../.gitbook/assets/image%20%28238%29.png)
+![](../.gitbook/assets/image%20%28239%29.png)
 

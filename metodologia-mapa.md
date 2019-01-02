@@ -6,12 +6,6 @@ description: >-
 
 # Metodología MAPA
 
-
-
-
-
-
-
 ## Contenido de la Metodología MAPA
 
 ![](.gitbook/assets/image%20%2830%29.png)
