@@ -4,11 +4,11 @@ El módulo configurador de encuestas es una herramienta para que los usuarios di
 
 Las siguientes imágenes explican cómo modificar una encuesta de proyecto, paso a paso
 
-![Se seleccionara el icono de la imagen para acceder a configuraci&#xF3;n.](../.gitbook/assets/image%20%28216%29.png)
+![Se seleccionara el icono de la imagen para acceder a configuraci&#xF3;n.](../.gitbook/assets/image%20%28220%29.png)
 
-![Boton Add item para a&#xF1;adir una nueva pregunta en la encuesta.](../.gitbook/assets/image%20%2851%29.png)
+![Boton Add item para a&#xF1;adir una nueva pregunta en la encuesta.](../.gitbook/assets/image%20%2852%29.png)
 
-![Estados de la pregunta en la Encuesta.](../.gitbook/assets/image%20%28124%29.png)
+![Estados de la pregunta en la Encuesta.](../.gitbook/assets/image%20%28126%29.png)
 
 {% tabs %}
 {% tab title="1er Estado" %}
@@ -24,7 +24,7 @@ Es una nueva pregunta en la encuesta y **aun no ha sido guardado** la cual se pu
 {% endtab %}
 {% endtabs %}
 
-![Campos disponibles para el ingreso de una pregunta en la Encuesta   ](../.gitbook/assets/image%20%28192%29.png)
+![Campos disponibles para el ingreso de una pregunta en la Encuesta   ](../.gitbook/assets/image%20%28195%29.png)
 
 {% tabs %}
 {% tab title="N° item" %}
@@ -60,9 +60,9 @@ Permite eliminar una pregunta de la **Encuesta**.
 {% endtab %}
 {% endtabs %}
 
-![Opci&#xF3;n de Avanzado](../.gitbook/assets/image%20%28134%29.png)
+![Opci&#xF3;n de Avanzado](../.gitbook/assets/image%20%28136%29.png)
 
-![](../.gitbook/assets/image%20%28210%29.png)
+![](../.gitbook/assets/image%20%28214%29.png)
 
 {% tabs %}
 {% tab title="Function Validate" %}
@@ -100,7 +100,7 @@ Es el valor con el que aparecerá la respuesta al abrir una encuesta.
 {% endtab %}
 {% endtabs %}
 
-![](../.gitbook/assets/image%20%2826%29.png)
+![](../.gitbook/assets/image%20%2827%29.png)
 
 ### **Equivalent Question**
 
@@ -126,17 +126,17 @@ Es la pregunta de la que se obtendrá el campo referencial.
 {% endtab %}
 {% endtabs %}
 
-![Una vez editada / agregada la pregunta en la encuesta se selecciona &quot;Save Questions&quot;](../.gitbook/assets/image%20%28172%29.png)
+![Una vez editada / agregada la pregunta en la encuesta se selecciona &quot;Save Questions&quot;](../.gitbook/assets/image%20%28175%29.png)
 
-![Preview dar&#xE1; un vistazo a los cambios que el usuario realice.](../.gitbook/assets/image%20%2858%29.png)
+![Preview dar&#xE1; un vistazo a los cambios que el usuario realice.](../.gitbook/assets/image%20%2859%29.png)
 
-![Preview con la nueva pregunta ingresada](../.gitbook/assets/image%20%28181%29.png)
+![Preview con la nueva pregunta ingresada](../.gitbook/assets/image%20%28184%29.png)
 
 {% hint style="danger" %}
 **Advertencia:** El siguiente paso **no se puede Revertir**.
 {% endhint %}
 
-![](../.gitbook/assets/image%20%2865%29.png)
+![](../.gitbook/assets/image%20%2866%29.png)
 
 {% hint style="warning" %}
 Una ves guardado con el **Save Survey Structure** se almacenara en la base de datos  y no se podrá eliminar.

@@ -18,7 +18,7 @@ A continuación se describe las responsabilidades como usuario Administrador Nac
 
 ## **Administrador Nacional - Rol y Responsabilidades**
 
-  ![](.gitbook/assets/image%20%28222%29.png)**Usuario Administrador Nacional**
+  ![](.gitbook/assets/image%20%28227%29.png)**Usuario Administrador Nacional**
 
 * Administra el Sistema  dentro del ámbito de su país.
 * Crea, modifica  y da de baja a los usuarios de cualquier Agencia o Municipio.
@@ -46,7 +46,7 @@ Tenga en cuenta que la mayoría de los usuarios tendrán ciertas restricciones d
 
 A continuación se indica los Perfiles de usuarios para la Organización Local.
 
- ![](.gitbook/assets/image%20%28177%29.png) **Usuario Administrador Local \(Municipio o Agencia\)**
+ ![](.gitbook/assets/image%20%28180%29.png) **Usuario Administrador Local \(Municipio o Agencia\)**
 
 * Administra el Sistema  dentro del ámbito de su Organización.
 * Crea, modifica  y da de baja a los usuarios de cualquier Agencia o Municipio.
@@ -63,7 +63,7 @@ A continuación se indica los Perfiles de usuarios para la Organización Local.
   <thead>
     <tr>
       <th style="text-align:left">
-        <img src=".gitbook/assets/image (177).png" alt/> <b>Usuario para la Planificación y Configuración</b>
+        <img src=".gitbook/assets/image (180).png" alt/> <b>Usuario para la Planificación y Configuración</b>
       </th>
     </tr>
   </thead>
@@ -105,7 +105,7 @@ A continuación se indica los Perfiles de usuarios para la Organización Local.
   <thead>
     <tr>
       <th style="text-align:left"><b></b>
-        <img src=".gitbook/assets/image (217).png" alt/> <b>Usuario Operativo o de Ejecución</b>
+        <img src=".gitbook/assets/image (222).png" alt/> <b>Usuario Operativo o de Ejecución</b>
       </th>
     </tr>
   </thead>
@@ -159,7 +159,7 @@ A continuación se indica los Perfiles de usuarios para la Organización Local.
   <thead>
     <tr>
       <th style="text-align:left">
-        <img src=".gitbook/assets/image (247).png" alt/> <b>Usuario de Consulta</b>
+        <img src=".gitbook/assets/image (252).png" alt/> <b>Usuario de Consulta</b>
       </th>
     </tr>
   </thead>

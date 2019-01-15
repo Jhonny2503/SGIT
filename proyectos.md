@@ -14,39 +14,39 @@ Para generar un proyecto debe tener en cuenta lo siguiente:
 >
 > Ingrese al siguiente Menú.
 
-![](.gitbook/assets/image%20%28215%29.png)
+![](.gitbook/assets/image%20%28219%29.png)
 
-![](.gitbook/assets/image%20%2885%29.png)
+![](.gitbook/assets/image%20%2886%29.png)
 
 ### Proyectos - Crear un Proyecto.
 
 > Creamos un nuevo proyecto  ingresando el nombre y la fecha aproximada de inicio y fin de ejecución, y así mismo definimos la zona de estudio dibujando directamente en el mapa o cargando un archivo shape file  georeferenciado en WGS84.
 
-![](.gitbook/assets/image%20%28167%29.png)
+![](.gitbook/assets/image%20%28169%29.png)
 
 > La creación del proyecto puede requerir de algunos segundos debido el sistema genera una nueva versión de las  encuestas y de los otros instrumentos con el fin que puedan ser modificados desde los módulo de configuración o caso contrario se podrá utilizar los que estén vigentes en ese momento.
 
-![](.gitbook/assets/image%20%28159%29.png)
+![](.gitbook/assets/image%20%28161%29.png)
 
 ### Proyecto - Editar el proyecto.
 
-> Ubicamos la herramienta indicada en la imagen ![](.gitbook/assets/image%20%28147%29.png) la cual nos llevara a la ventana para la edición.
+> Ubicamos la herramienta indicada en la imagen ![](.gitbook/assets/image%20%28149%29.png) la cual nos llevara a la ventana para la edición.
 
-![](.gitbook/assets/image%20%28230%29.png)
+![](.gitbook/assets/image%20%28235%29.png)
 
 > Editamos los datos  del proyecto y la poligonal  del proyecto si fuera el caso y grabamos.
 
-![](.gitbook/assets/image%20%2827%29.png)
+![](.gitbook/assets/image%20%2828%29.png)
 
 ### Proyectos - Consulta de los Costos y Tiempos en la Ejecución del Proyecto.
 
 > Esta herramienta nos permitirá consultar los tiempos y costos ejecutados en el proyecto  y compáralos con lo planificado .
 
-![](.gitbook/assets/image%20%28132%29.png)
+![](.gitbook/assets/image%20%28134%29.png)
 
-![](.gitbook/assets/image%20%28178%29.png)
+![](.gitbook/assets/image%20%28181%29.png)
 
-![](.gitbook/assets/image%20%2877%29.png)
+![](.gitbook/assets/image%20%2878%29.png)
 
 
 
